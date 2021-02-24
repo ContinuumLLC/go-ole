@@ -7,7 +7,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	ole "github.com/ContinuumLLC/godep-go-ole-go-ole/oleutil"
+	ole "github.com/ContinuumLLC/godep-go-ole-go-ole"
 )
 
 // ConnectObject creates a connection point between two services for communication.

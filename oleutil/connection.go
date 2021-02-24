@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"unsafe"
 
-	ole "github.com/ContinuumLLC/godep-go-ole-go-ole/oleutil"
+	ole "github.com/ContinuumLLC/godep-go-ole-go-ole"
 )
 
 type stdDispatch struct {
